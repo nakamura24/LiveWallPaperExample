@@ -5,10 +5,11 @@
     <string name="LiveWallPaperExample1">ライブ壁紙ライブラリ使用例1</string>
     <string name="LiveWallPaperExample2">ライブ壁紙ライブラリ使用例2</string>
     <string name="LiveWallPaperExample3">ライブ壁紙ライブラリ使用例3</string>
-    <string name="wallpaper_cube1">Cube</string>
+    <string name="LiveWallPaper_cube1">ライブ壁紙ライブラリ使用例Cube</string>
     <string name="description1">簡単な使用例</string>
     <string name="description2">DrawCanvasとChangeImageを変更した使用例</string>
     <string name="description3">DrawDelayTimeを使った使用例</string>
+    <string name="description_cube1">DemoのCubeを再現した使用例</string>
     <string name="battery">電池残量:</string>
     <string name="backgroundcolor">背景色</string>
     <string-array name="colors">

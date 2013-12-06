@@ -62,15 +62,16 @@ public final class R {
         public static final int LiveWallPaperExample2=0x7f040003;
         public static final int LiveWallPaperExample3=0x7f040004;
         public static final int LiveWallPaperExamples=0x7f040001;
+        public static final int LiveWallPaper_cube1=0x7f040005;
         public static final int app_name=0x7f040000;
-        public static final int backgroundcolor=0x7f04000a;
-        public static final int battery=0x7f040009;
+        public static final int backgroundcolor=0x7f04000b;
+        public static final int battery=0x7f04000a;
         public static final int description1=0x7f040006;
         public static final int description2=0x7f040007;
         public static final int description3=0x7f040008;
-        public static final int location=0x7f04000c;
-        public static final int overlay=0x7f04000b;
-        public static final int wallpaper_cube1=0x7f040005;
+        public static final int description_cube1=0x7f040009;
+        public static final int location=0x7f04000d;
+        public static final int overlay=0x7f04000c;
     }
     public static final class style {
         /** 

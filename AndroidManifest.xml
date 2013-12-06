@@ -56,7 +56,7 @@
         
         <service
             android:name=".CubeWallpaper1"
-            android:label="@string/wallpaper_cube1"
+            android:label="@string/LiveWallPaper_cube1"
             android:permission="android.permission.BIND_WALLPAPER">
             <intent-filter>
                 <action android:name="android.service.wallpaper.WallpaperService" />
