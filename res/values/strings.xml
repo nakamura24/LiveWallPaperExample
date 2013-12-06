@@ -1,0 +1,38 @@
+﻿<resources>
+
+    <string name="app_name">ライブ壁紙ライブラリ使用例集</string>
+    <string name="LiveWallPaperExamples">ライブ壁紙ライブラリ使用例集</string>
+    <string name="LiveWallPaperExample1">ライブ壁紙ライブラリ使用例1</string>
+    <string name="LiveWallPaperExample2">ライブ壁紙ライブラリ使用例2</string>
+    <string name="LiveWallPaperExample3">ライブ壁紙ライブラリ使用例3</string>
+    <string name="wallpaper_cube1">Cube</string>
+    <string name="description1">簡単な使用例</string>
+    <string name="description2">DrawCanvasとChangeImageを変更した使用例</string>
+    <string name="description3">DrawDelayTimeを使った使用例</string>
+    <string name="battery">電池残量:</string>
+    <string name="backgroundcolor">背景色</string>
+    <string-array name="colors">
+        <item>黒</item>
+        <item>赤</item>
+        <item>緑</item>
+        <item>青</item>
+        <item>シアン</item>
+        <item>マゼンタ</item>
+        <item>黄</item>
+        <item>白</item>
+    </string-array>
+    <string-array name="colorvalues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string name="overlay">時刻、電池残量を表示</string>
+
+    <string name="location">天気予報を表示する地域</string>
+    
+</resources>

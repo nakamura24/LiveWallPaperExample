@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference 
+        android:entries="@array/colors" 
+        android:entryValues="@array/colorvalues" 
+        android:key="color" 
+        android:title="@string/backgroundcolor"/>
+    <CheckBoxPreference android:key="overlay" android:title="@string/overlay"/>
+    <ListPreference 
+        android:key="LocationId" 
+        android:title="@string/location"/>
+</PreferenceScreen>
